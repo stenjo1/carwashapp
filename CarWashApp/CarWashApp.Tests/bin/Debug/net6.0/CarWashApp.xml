@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CarWashApp</name>
+    </assembly>
+    <members>
+        <member name="M:CarWashApp.Controllers.AppointmentController.GetCustomerAppointments(CarWashApp.DTOs.AppointmentFilter)">
+            <summary>
+            Get all appointments made by logged in customer
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CarWashApp.Controllers.AppointmentController.GetCarWashAppointments(System.Int32,CarWashApp.DTOs.PaginationDTO)">
+            <summary>
+            Get all appointments scheduled in carwash
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CarWashApp.Controllers.CarWashController.GetCarWashes(CarWashApp.DTOs.CarWashFilterDTO)">
+            <summary>
+            Show carwashes near logged in customer with the best rating
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CarWashApp.Controllers.CarWashController.GetOwnerCarWashes(CarWashApp.DTOs.CarWashFilterDTO)">
+            <summary>
+            Show carwashes owned by logged in owner
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

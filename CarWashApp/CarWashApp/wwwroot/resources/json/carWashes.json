@@ -1,0 +1,187 @@
+﻿[
+  {
+    "id": 1,
+    "ownerId": "ee047c93-0281-4db6-8121-7b7f198b61b5",
+    "name": "Perionica Micko",
+    "size": 2,
+    "openingHour": 8,
+    "closingHour": 20,
+    "latitude": 44.77126850915725,
+    "longitude": 20.414552591253408
+  },
+  {
+    "id": 2,
+    "ownerId": "ee047c93-0281-4db6-8121-7b7f198b61b5",
+    "name": "Perionica Micko2",
+    "size": 3,
+    "openingHour": 8,
+    "closingHour": 20,
+    "latitude": 44.78255120049036,
+    "longitude": 20.4101593046156
+  },
+  {
+    "id": 3,
+    "ownerId": "ee047c93-0281-4db6-8121-7b7f198b61b5",
+    "name": "Micko Na Vracaru",
+    "size": 1,
+    "openingHour": 6,
+    "closingHour": 17,
+    "latitude": 44.805035505102715,
+    "longitude": 20.470831428714185
+  },
+  {
+    "id": 4,
+    "ownerId": "ee047c93-0281-4db6-8121-7b7f198b61b5",
+    "name": "Micko Na Vracaru O5",
+    "size": 3,
+    "openingHour": 4,
+    "closingHour": 15,
+    "latitude": 44.80439451610353,
+    "longitude": 20.468022352805452
+  },
+  {
+    "id": 5,
+    "ownerId": "ee047c93-0281-4db6-8121-7b7f198b61b5",
+    "name": "Micko KV",
+    "size": 3,
+    "openingHour": 8,
+    "closingHour": 20,
+    "latitude": 43.725370954057006,
+    "longitude": 20.683133458290914
+  },
+  {
+    "id": 6,
+    "ownerId": "ee047c93-0281-4db6-8121-7b7f198b61b5",
+    "name": "Micko KV2",
+    "size": 1,
+    "openingHour": 8,
+    "closingHour": 20,
+    "latitude": 43.72125399193022,
+    "longitude": 20.687071480762818
+  },
+
+
+  {
+    "id": 7,
+    "ownerId": "92a11246-aaef-495f-8dc9-51a5ede21d7f",
+    "name": "Perina Periona",
+    "size": 2,
+    "openingHour": 5,
+    "closingHour": 17,
+    "latitude": 44.77126850915725,
+    "longitude": 20.414552591253408
+  },
+  {
+    "id": 8,
+    "ownerId": "92a11246-aaef-495f-8dc9-51a5ede21d7f",
+    "name": "PeraPereAutomobile",
+    "size": 3,
+    "openingHour": 8,
+    "closingHour": 20,
+    "latitude": 44.77975686317301,
+    "longitude": 20.41339361214433
+  },
+  {
+    "id": 9,
+    "ownerId": "92a11246-aaef-495f-8dc9-51a5ede21d7f",
+    "name": "Perionica Pera",
+    "size": 1,
+    "openingHour": 6,
+    "closingHour": 18,
+    "latitude": 44.78400040196753,
+    "longitude": 20.41585032989079
+  },
+  {
+    "id": 10,
+    "ownerId": "92a11246-aaef-495f-8dc9-51a5ede21d7f",
+    "name": "Pera NonStop",
+    "size": 6,
+    "openingHour": 0,
+    "closingHour": 24,
+    "latitude": 44.81656187567828,
+    "longitude": 20.461417167549037
+  },
+  {
+    "id": 11,
+    "ownerId": "92a11246-aaef-495f-8dc9-51a5ede21d7f",
+    "name": "Pera NonStop2",
+    "size": 3,
+    "openingHour": 0,
+    "closingHour": 24,
+    "latitude": 44.80869778590662,
+    "longitude": 20.45480861730723
+  },
+  {
+    "id": 12,
+    "ownerId": "92a11246-aaef-495f-8dc9-51a5ede21d7f",
+    "name": "Perina Periona 2",
+    "size": 1,
+    "openingHour": 8,
+    "closingHour": 20,
+    "latitude": 44.8475452917322,
+    "longitude": 20.395486311872737
+  },
+
+
+  {
+    "id": 13,
+    "ownerId": "5d38e7fc-ce18-4e36-b6d1-b3e251d58108",
+    "name": "Jeca Automoto",
+    "size": 2,
+    "openingHour": 7,
+    "closingHour": 21,
+    "latitude": 44.76882899465445,
+    "longitude": 20.414584129639266
+  },
+  {
+    "id": 14,
+    "ownerId": "5d38e7fc-ce18-4e36-b6d1-b3e251d58108",
+    "name": "Jeca Automoto 2",
+    "size": 2,
+    "openingHour": 8,
+    "closingHour": 20,
+    "latitude": 44.77361623450264,
+    "longitude": 20.413373792352697
+  },
+  {
+    "id": 15,
+    "ownerId": "5d38e7fc-ce18-4e36-b6d1-b3e251d58108",
+    "name": "PeriJeca",
+    "size": 2,
+    "openingHour": 9,
+    "closingHour": 17,
+    "latitude": 44.78190090428006,
+    "longitude": 20.41333056605157
+  },
+  {
+    "id": 16,
+    "ownerId": "5d38e7fc-ce18-4e36-b6d1-b3e251d58108",
+    "name": "Super Jeca",
+    "size": 2,
+    "openingHour": 8,
+    "closingHour": 20,
+    "latitude": 44.834416392785464,
+    "longitude": 20.372848747792126
+  },
+  {
+    "id": 17,
+    "ownerId": "5d38e7fc-ce18-4e36-b6d1-b3e251d58108",
+    "name": "Jeca Blokovi",
+    "size": 3,
+    "openingHour": 0,
+    "closingHour": 24,
+    "latitude": 44.80364664078394,
+    "longitude": 20.405706618829374
+  },
+  {
+    "id": 18,
+    "ownerId": "5d38e7fc-ce18-4e36-b6d1-b3e251d58108",
+    "name": "Jeca Blokovi 2",
+    "size": 1,
+    "openingHour": 0,
+    "closingHour": 24,
+    "latitude": 44.815004820668065,
+    "longitude": 20.435563120242296
+  }
+
+]

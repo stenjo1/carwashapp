@@ -1,0 +1,348 @@
+﻿[
+  {
+    "carWashId": 1,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 1,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 1,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+
+  {
+    "carWashId": 2,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 2,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 2,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+
+  {
+    "carWashId": 3,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 3,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 3,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 4,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 4,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 4,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 5,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 5,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 5,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 6,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 6,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 6,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 7,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 7,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 7,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 8,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 8,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 8,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 9,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 9,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 9,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 10,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 10,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 10,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 11,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 11,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 11,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 12,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 12,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 12,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 13,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 13,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 13,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 14,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 14,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 14,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 15,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 15,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 15,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 16,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 16,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 16,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 17,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 17,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 17,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  },
+
+  {
+    "carWashId": 18,
+    "serviceType": "Regular",
+    "price": 100.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 18,
+    "serviceType": "Extended",
+    "price": 250.0,
+    "duration": 1
+  },
+  {
+    "carWashId": 18,
+    "serviceType": "Premium",
+    "price": 300.0,
+    "duration": 2
+  }
+
+
+
+]

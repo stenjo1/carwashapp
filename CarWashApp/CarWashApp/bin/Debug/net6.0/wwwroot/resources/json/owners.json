@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Id": "ee047c93-0281-4db6-8121-7b7f198b61b5",
+    "UserName": "micko11",
+    "Email": "micko11@yahoo.com",
+    "PhoneNumber": "0621213327",
+    "PasswordHash": "Micko11!",
+    "FirstName": "Milos",
+    "LastName": "Maksimovic",
+    "DateOfBirth": "2001-08-24",
+    "Gender": 0,
+    "IsOwner": true,
+    "TotalIncome": 0,
+    "TotalLoss": 0
+  },
+  {
+    "Id": "92a11246-aaef-495f-8dc9-51a5ede21d7f",
+    "UserName": "peraperic1",
+    "Email": "pera.peric@yahoo.com",
+    "PhoneNumber": "0621213328",
+    "PasswordHash": "Peraperic1!",
+    "FirstName": "Petar",
+    "LastName": "Peric",
+    "DateOfBirth": "1997-08-05",
+    "Gender": 0,
+    "IsOwner": true,
+    "TotalIncome": 0,
+    "TotalLoss": 0
+  },
+  {
+    "Id": "5d38e7fc-ce18-4e36-b6d1-b3e251d58108",
+    "UserName": "jecam18",
+    "Email": "jecam18@gmail.com",
+    "PhoneNumber": "0621213329",
+    "PasswordHash": "Jecam18!",
+    "FirstName": "Jelena",
+    "LastName": "Mirkovic",
+    "DateOfBirth": "1986-10-13",
+    "Gender": 1,
+    "IsOwner": true,
+    "TotalIncome": 0,
+    "TotalLoss": 0
+  }
+]

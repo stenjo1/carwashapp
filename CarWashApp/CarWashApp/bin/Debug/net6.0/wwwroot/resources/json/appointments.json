@@ -1,0 +1,1116 @@
+﻿[
+  {
+    "Id": 1,
+    "CarWashId": 1,
+    "CustomerId": "0451bf9c-489b-454e-bdd4-7b4d84bec61c",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 2,
+    "CarWashId": 1,
+    "CustomerId": "5de2cc4b-6449-40e2-90b6-c449b8c42ac7",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 5
+  },
+  {
+    "Id": 3,
+    "CarWashId": 1,
+    "CustomerId": "449dc796-edaa-4afc-9ee2-1a347aba955e",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 4,
+    "CarWashId": 1,
+    "CustomerId": "c1806a9b-f01b-4d6b-ae76-0985be8d9bae",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 5,
+    "CarWashId": 1,
+    "CustomerId": "994098e5-95a7-4bda-bcde-be4be98335ca",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+  {
+    "Id": 6,
+    "CarWashId": 2,
+    "CustomerId": "f23f43b1-3253-413e-81f9-44e0252bf329",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 7,
+    "CarWashId": 2,
+    "CustomerId": "43be6494-af9d-4a17-9eed-5d1e03fe9c10",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 3
+  },
+  {
+    "Id": 8,
+    "CarWashId": 2,
+    "CustomerId": "a72bc058-0c69-47fd-80f5-79cdfd48929f",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 9,
+    "CarWashId": 2,
+    "CustomerId": "4ff9ec50-0bf2-437a-9040-fa9c73b187f3",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 10,
+    "CarWashId": 2,
+    "CustomerId": "0d2c8a28-6268-4c63-b858-dc2e1118a776",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+  {
+    "Id": 11,
+    "CarWashId": 3,
+    "CustomerId": "8389e296-f8c6-47a7-8da2-9cbf136a1957",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 12,
+    "CarWashId": 3,
+    "CustomerId": "e2639dbd-0c0c-4d61-9476-c7118e1d1fbc",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 4
+  },
+  {
+    "Id": 13,
+    "CarWashId": 3,
+    "CustomerId": "8a961647-b75a-4879-add0-c386861c7fd8",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 14,
+    "CarWashId": 3,
+    "CustomerId": "642e063e-72ed-421a-86cb-b58253ea0592",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 15,
+    "CarWashId": 3,
+    "CustomerId": "0451bf9c-489b-454e-bdd4-7b4d84bec61c",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+  {
+    "Id": 16,
+    "CarWashId": 4,
+    "CustomerId": "5de2cc4b-6449-40e2-90b6-c449b8c42ac7",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 17,
+    "CarWashId": 4,
+    "CustomerId": "449dc796-edaa-4afc-9ee2-1a347aba955e",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 2
+  },
+  {
+    "Id": 18,
+    "CarWashId": 4,
+    "CustomerId": "c1806a9b-f01b-4d6b-ae76-0985be8d9bae",
+    "StartHour": 4,
+    "EndHour": 6,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 19,
+    "CarWashId": 4,
+    "CustomerId": "994098e5-95a7-4bda-bcde-be4be98335ca",
+    "StartHour": 12,
+    "EndHour": 14,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 20,
+    "CarWashId": 4,
+    "CustomerId": "f23f43b1-3253-413e-81f9-44e0252bf329",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+  {
+    "Id": 21,
+    "CarWashId": 5,
+    "CustomerId": "43be6494-af9d-4a17-9eed-5d1e03fe9c10",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 22,
+    "CarWashId": 5,
+    "CustomerId": "a72bc058-0c69-47fd-80f5-79cdfd48929f",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 1
+  },
+  {
+    "Id": 23,
+    "CarWashId": 5,
+    "CustomerId": "4ff9ec50-0bf2-437a-9040-fa9c73b187f3",
+    "StartHour": 12,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 24,
+    "CarWashId": 5,
+    "CustomerId": "0d2c8a28-6268-4c63-b858-dc2e1118a776",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 25,
+    "CarWashId": 5,
+    "CustomerId": "8389e296-f8c6-47a7-8da2-9cbf136a1957",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+  {
+    "Id": 26,
+    "CarWashId": 6,
+    "CustomerId": "e2639dbd-0c0c-4d61-9476-c7118e1d1fbc",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 27,
+    "CarWashId": 6,
+    "CustomerId": "8a961647-b75a-4879-add0-c386861c7fd8",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 5
+  },
+  {
+    "Id": 28,
+    "CarWashId": 6,
+    "CustomerId": "642e063e-72ed-421a-86cb-b58253ea0592",
+    "StartHour": 12,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 29,
+    "CarWashId": 6,
+    "CustomerId": "0451bf9c-489b-454e-bdd4-7b4d84bec61c",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 30,
+    "CarWashId": 6,
+    "CustomerId": "5de2cc4b-6449-40e2-90b6-c449b8c42ac7",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+  
+
+
+  {
+    "Id": 31,
+    "CarWashId": 7,
+    "CustomerId": "449dc796-edaa-4afc-9ee2-1a347aba955e",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 32,
+    "CarWashId": 7,
+    "CustomerId": "c1806a9b-f01b-4d6b-ae76-0985be8d9bae",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 5
+  },
+  {
+    "Id": 33,
+    "CarWashId": 7,
+    "CustomerId": "994098e5-95a7-4bda-bcde-be4be98335ca",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 34,
+    "CarWashId": 7,
+    "CustomerId": "f23f43b1-3253-413e-81f9-44e0252bf329",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 35,
+    "CarWashId": 7,
+    "CustomerId": "43be6494-af9d-4a17-9eed-5d1e03fe9c10",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+  {
+    "Id": 36,
+    "CarWashId": 8,
+    "CustomerId": "a72bc058-0c69-47fd-80f5-79cdfd48929f",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 37,
+    "CarWashId": 8,
+    "CustomerId": "4ff9ec50-0bf2-437a-9040-fa9c73b187f3",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 3
+  },
+  {
+    "Id": 38,
+    "CarWashId": 8,
+    "CustomerId": "0d2c8a28-6268-4c63-b858-dc2e1118a776",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 39,
+    "CarWashId": 8,
+    "CustomerId": "8389e296-f8c6-47a7-8da2-9cbf136a1957",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 40,
+    "CarWashId": 8,
+    "CustomerId": "e2639dbd-0c0c-4d61-9476-c7118e1d1fbc",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+  {
+    "Id": 41,
+    "CarWashId": 9,
+    "CustomerId": "8a961647-b75a-4879-add0-c386861c7fd8",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 42,
+    "CarWashId": 9,
+    "CustomerId": "642e063e-72ed-421a-86cb-b58253ea0592",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 3
+  },
+  {
+    "Id": 43,
+    "CarWashId": 9,
+    "CustomerId": "0451bf9c-489b-454e-bdd4-7b4d84bec61c",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 44,
+    "CarWashId": 9,
+    "CustomerId": "5de2cc4b-6449-40e2-90b6-c449b8c42ac7",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 45,
+    "CarWashId": 9,
+    "CustomerId": "449dc796-edaa-4afc-9ee2-1a347aba955e",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+  {
+    "Id": 46,
+    "CarWashId": 10,
+    "CustomerId": "c1806a9b-f01b-4d6b-ae76-0985be8d9bae",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 47,
+    "CarWashId": 10,
+    "CustomerId": "994098e5-95a7-4bda-bcde-be4be98335ca",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 4
+  },
+  {
+    "Id": 48,
+    "CarWashId": 10,
+    "CustomerId": "f23f43b1-3253-413e-81f9-44e0252bf329",
+    "StartHour": 4,
+    "EndHour": 6,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 49,
+    "CarWashId": 10,
+    "CustomerId": "43be6494-af9d-4a17-9eed-5d1e03fe9c10",
+    "StartHour": 12,
+    "EndHour": 14,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 50,
+    "CarWashId": 10,
+    "CustomerId": "a72bc058-0c69-47fd-80f5-79cdfd48929f",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+  {
+    "Id": 51,
+    "CarWashId": 11,
+    "CustomerId": "4ff9ec50-0bf2-437a-9040-fa9c73b187f3",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 52,
+    "CarWashId": 11,
+    "CustomerId": "0d2c8a28-6268-4c63-b858-dc2e1118a776",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 2
+  },
+  {
+    "Id": 53,
+    "CarWashId": 11,
+    "CustomerId": "8389e296-f8c6-47a7-8da2-9cbf136a1957",
+    "StartHour": 12,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 54,
+    "CarWashId": 11,
+    "CustomerId": "e2639dbd-0c0c-4d61-9476-c7118e1d1fbc",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 55,
+    "CarWashId": 11,
+    "CustomerId": "8a961647-b75a-4879-add0-c386861c7fd8",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+  {
+    "Id": 56,
+    "CarWashId": 12,
+    "CustomerId": "642e063e-72ed-421a-86cb-b58253ea0592",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 57,
+    "CarWashId": 12,
+    "CustomerId": "0451bf9c-489b-454e-bdd4-7b4d84bec61c",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 1
+  },
+  {
+    "Id": 58,
+    "CarWashId": 12,
+    "CustomerId": "5de2cc4b-6449-40e2-90b6-c449b8c42ac7",
+    "StartHour": 12,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 59,
+    "CarWashId": 12,
+    "CustomerId": "449dc796-edaa-4afc-9ee2-1a347aba955e",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 60,
+    "CarWashId": 12,
+    "CustomerId": "c1806a9b-f01b-4d6b-ae76-0985be8d9bae",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+
+  
+
+
+  {
+    "Id": 61,
+    "CarWashId": 13,
+    "CustomerId": "994098e5-95a7-4bda-bcde-be4be98335ca",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 62,
+    "CarWashId": 13,
+    "CustomerId": "f23f43b1-3253-413e-81f9-44e0252bf329",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 5
+  },
+  {
+    "Id": 63,
+    "CarWashId": 13,
+    "CustomerId": "43be6494-af9d-4a17-9eed-5d1e03fe9c10",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 64,
+    "CarWashId": 13,
+    "CustomerId": "a72bc058-0c69-47fd-80f5-79cdfd48929f",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 65,
+    "CarWashId": 13,
+    "CustomerId": "4ff9ec50-0bf2-437a-9040-fa9c73b187f3",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+  {
+    "Id": 66,
+    "CarWashId": 14,
+    "CustomerId": "0d2c8a28-6268-4c63-b858-dc2e1118a776",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 67,
+    "CarWashId": 14,
+    "CustomerId": "8389e296-f8c6-47a7-8da2-9cbf136a1957",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 3
+  },
+  {
+    "Id": 68,
+    "CarWashId": 14,
+    "CustomerId": "e2639dbd-0c0c-4d61-9476-c7118e1d1fbc",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 69,
+    "CarWashId": 14,
+    "CustomerId": "8a961647-b75a-4879-add0-c386861c7fd8",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 70,
+    "CarWashId": 14,
+    "CustomerId": "642e063e-72ed-421a-86cb-b58253ea0592",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+  {
+    "Id": 71,
+    "CarWashId": 15,
+    "CustomerId": "0451bf9c-489b-454e-bdd4-7b4d84bec61c",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 72,
+    "CarWashId": 15,
+    "CustomerId": "5de2cc4b-6449-40e2-90b6-c449b8c42ac7",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 4
+  },
+  {
+    "Id": 73,
+    "CarWashId": 15,
+    "CustomerId": "449dc796-edaa-4afc-9ee2-1a347aba955e",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 74,
+    "CarWashId": 15,
+    "CustomerId": "c1806a9b-f01b-4d6b-ae76-0985be8d9bae",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 75,
+    "CarWashId": 15,
+    "CustomerId": "994098e5-95a7-4bda-bcde-be4be98335ca",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+  {
+    "Id": 76,
+    "CarWashId": 16,
+    "CustomerId": "f23f43b1-3253-413e-81f9-44e0252bf329",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 77,
+    "CarWashId": 16,
+    "CustomerId": "43be6494-af9d-4a17-9eed-5d1e03fe9c10",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 5
+  },
+  {
+    "Id": 78,
+    "CarWashId": 16,
+    "CustomerId": "a72bc058-0c69-47fd-80f5-79cdfd48929f",
+    "StartHour": 4,
+    "EndHour": 6,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 79,
+    "CarWashId": 16,
+    "CustomerId": "4ff9ec50-0bf2-437a-9040-fa9c73b187f3",
+    "StartHour": 12,
+    "EndHour": 14,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 80,
+    "CarWashId": 16,
+    "CustomerId": "0d2c8a28-6268-4c63-b858-dc2e1118a776",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+  {
+    "Id": 81,
+    "CarWashId": 17,
+    "CustomerId": "8389e296-f8c6-47a7-8da2-9cbf136a1957",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 82,
+    "CarWashId": 17,
+    "CustomerId": "e2639dbd-0c0c-4d61-9476-c7118e1d1fbc",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 4
+  },
+  {
+    "Id": 83,
+    "CarWashId": 17,
+    "CustomerId": "8a961647-b75a-4879-add0-c386861c7fd8",
+    "StartHour": 12,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 84,
+    "CarWashId": 17,
+    "CustomerId": "642e063e-72ed-421a-86cb-b58253ea0592",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 85,
+    "CarWashId": 17,
+    "CustomerId": "0451bf9c-489b-454e-bdd4-7b4d84bec61c",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+
+
+
+  {
+    "Id": 86,
+    "CarWashId": 18,
+    "CustomerId": "449dc796-edaa-4afc-9ee2-1a347aba955e",
+    "StartHour": 8,
+    "EndHour": 9,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Regular",
+    "Status": 2
+  },
+  {
+    "Id": 87,
+    "CarWashId": 18,
+    "CustomerId": "994098e5-95a7-4bda-bcde-be4be98335ca",
+    "StartHour": 11,
+    "EndHour": 12,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Extended",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 3
+  },
+  {
+    "Id": 88,
+    "CarWashId": 18,
+    "CustomerId": "43be6494-af9d-4a17-9eed-5d1e03fe9c10",
+    "StartHour": 12,
+    "EndHour": 16,
+    "Date": "2022-08-25",
+    "DateCreated": "2022-08-10",
+    "ServiceType": "Premium",
+    "Status": 1,
+    "IsFinished": true,
+    "Rating": 0
+  },
+  {
+    "Id": 89,
+    "CarWashId": 18,
+    "CustomerId": "a72bc058-0c69-47fd-80f5-79cdfd48929f",
+    "StartHour": 14,
+    "EndHour": 16,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  },
+  {
+    "Id": 90,
+    "CarWashId": 18,
+    "CustomerId": "4ff9ec50-0bf2-437a-9040-fa9c73b187f3",
+    "StartHour": 10,
+    "EndHour": 12,
+    "Date": "2022-12-25",
+    "DateCreated": "2022-12-10",
+    "ServiceType": "Premium",
+    "Status": 0
+  }
+
+]
